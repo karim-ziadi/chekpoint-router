@@ -1,0 +1,37 @@
+.movipage {
+    display: flex;
+    flex-direction: row;
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/33/35/cinema-background-vector-7533335.jpg");
+    height: 720px;
+    block-size: cover;
+}
+.contain {
+    display: flex;
+    flex-direction: row !important;
+}
+.movieTrailler {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 70%;
+}
+.movieBody {
+    background-color: rgb(71, 4, 4);
+    width: 38%;
+    margin-top: 30px;
+    margin-right: -1.5%;
+    height: 414px;
+}
+.btnM {
+    display: flex;
+    margin-top: 50px;
+    color: black;
+    flex-direction: column !important;
+}
+.image {
+    margin-top: -3%;
+    width: 15%;
+    height: 200px;
+    align-items: baseline;
+    border-radius: 100px;
+}

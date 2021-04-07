@@ -1,0 +1,8 @@
+.Addmovie {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.inputMovie > * {
+    margin: 15px 5px;
+}
